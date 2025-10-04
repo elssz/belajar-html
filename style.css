@@ -1,0 +1,16 @@
+h1, h3{
+    color: blue;    /*warna untuk heading 1, */
+}
+
+p{
+    /*memberikan margin bawah pada tiap pargraph*/
+    margin-bottom: 20px;
+}
+
+
+body{
+    margin: 100px 50px 30px 50px;    /*memberikan margin pada keseluruhan*/
+    background-color: bisque;    /*memberikan background pada body html*/
+    font-family: sans-serif;    /*style font pada teks isi*/
+    size: 2px;    /*ukuran font*/
+}
